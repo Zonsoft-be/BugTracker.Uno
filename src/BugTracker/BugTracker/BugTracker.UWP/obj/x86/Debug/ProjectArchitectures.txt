@@ -1,0 +1,1 @@
+C:\Repos\GitHub\BugTracker.Uno\src\BugTracker\BugTracker\BugTracker.UWP\BugTracker.UWP.csproj;x86
